@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechRotich
+- 👋 Hi, I’m @Chebet_T_Rotich
 - 👀 I’m interested in data science and machine learning...
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on data science
